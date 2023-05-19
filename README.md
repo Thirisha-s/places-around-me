@@ -25,7 +25,7 @@ Run the Django server and execute the HTML files.
 <font color="red"><b>TIRUVALLUR</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>Mohanish.K (22002294)</b></font>
+<font color="blue"><b>thirisha(22002294)</b></font>
 </h3>
 <center>
 <img src="/static/images/map.png" usemap="#MyCity" height="420" width="1100">
@@ -179,7 +179,18 @@ technologies and be recognized for its integrity, customer focus and commitment 
 
 
 ## Output:
-Include your output screenshot here
+![image](https://github.com/Thirisha-s/places-around-me/assets/120380280/fad08110-d4b0-45e0-b4ac-76da53c4df3a)
 
-## Result:
-Write your result
+![image](https://github.com/Thirisha-s/places-around-me/assets/120380280/ee22e188-bd7f-42dc-963a-77866f6f427d)
+
+![image](https://github.com/Thirisha-s/places-around-me/assets/120380280/e18481b8-7c70-41f3-8cbe-80e601d5a2bc)
+
+![image](https://github.com/Thirisha-s/places-around-me/assets/120380280/c612f200-c6fa-4ceb-a709-ec6e2b0d55a6)
+
+![image](https://github.com/Thirisha-s/places-around-me/assets/120380280/22a60d72-10ed-4093-b9ca-2e8b033efc09)
+
+![image](https://github.com/Thirisha-s/places-around-me/assets/120380280/bc4e4fda-6f49-4bd8-babd-d77c85955614)
+
+# Result:
+Thus the program for Places Around me is executed Successfully.
+
