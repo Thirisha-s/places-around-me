@@ -25,7 +25,7 @@ Run the Django server and execute the HTML files.
 <font color="red"><b>TIRUVALLUR</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>thirisha(22002294)</b></font>
+<font color="blue"><b>thirisha(22001920)</b></font>
 </h3>
 <center>
 <img src="/static/images/map.png" usemap="#MyCity" height="420" width="1100">
