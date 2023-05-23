@@ -179,7 +179,8 @@ technologies and be recognized for its integrity, customer focus and commitment 
 
 
 ## Output:
-![image](https://github.com/Thirisha-s/places-around-me/assets/120380280/fad08110-d4b0-45e0-b4ac-76da53c4df3a)
+![image](https://github.com/Thirisha-s/places-around-me/assets/120380280/fdab8f9b-ea54-4ae3-9a1b-a43bbe073871)
+
 
 ![image](https://github.com/Thirisha-s/places-around-me/assets/120380280/ee22e188-bd7f-42dc-963a-77866f6f427d)
 
